@@ -1,2 +1,2 @@
-# Task
-Task for course
+# Task from Stepik course
+Launching autotests for different interface languages
